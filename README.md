@@ -127,13 +127,17 @@ public class KoushikKannan {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/koushikvij">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=koushikvij&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushikvij&theme=tokyonight" alt="GitHub Stats"/>
   &nbsp;
-  <a href="https://github.com/koushikvij">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikvij&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushikvij&theme=tokyonight" alt="Top Languages by Repo"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koushikvij&theme=tokyonight" alt="Top Languages by Commit"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikvij&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
