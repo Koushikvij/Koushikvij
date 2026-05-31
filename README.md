@@ -158,10 +158,12 @@ public class KoushikKannan {
 
 ---
 
-## 🏆 Trophy Wall
+## ⏰ Coding Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushikvij&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koushikvij&theme=tokyonight&utcOffset=-6" alt="Productive Time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushikvij&theme=tokyonight" alt="Repos by Language"/>
 </div>
 
 ---
