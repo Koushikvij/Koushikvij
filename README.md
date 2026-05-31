@@ -52,7 +52,7 @@ public class KoushikKannan {
 
     public String funFact() {
         return "Built an AI agent that reviews PRs end-to-end "
-             + "across 7 MCP servers with minimal human involvement.";
+             + "across 7 MCP servers & 25 skills with minimal human involvement.";
     }
 
     public String motto() {
